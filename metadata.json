@@ -1,0 +1,7 @@
+{
+  "name": "Riglam Lobdra - Gungru Tenzin Dorjee",
+  "description": "A comprehensive Tibetan Buddhist debate and study assistant focusing on the Five Great Treatises. Features AI-driven logic debates, text explanation, and meditation guidance in pure Tibetan.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
